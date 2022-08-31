@@ -1,9 +1,9 @@
 package chatroom
 
 import (
-	"chatroom/global"
-	"chatroom/initialize"
-	"chatroom/router"
+	"github.com/GPorter-t/gin-plugin-chatroom/global"
+	"github.com/GPorter-t/gin-plugin-chatroom/initialize"
+	"github.com/GPorter-t/gin-plugin-chatroom/router"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,9 +1,10 @@
 package service
 
 import (
-	"chatroom/global"
-	"chatroom/initialize"
 	"fmt"
+
+	"github.com/GPorter-t/gin-plugin-chatroom/global"
+	"github.com/GPorter-t/gin-plugin-chatroom/initialize"
 
 	"testing"
 )

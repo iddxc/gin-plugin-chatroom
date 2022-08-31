@@ -1,8 +1,8 @@
 package utils
 
 import (
-	"chatroom/global"
 	"context"
+	"github.com/GPorter-t/gin-plugin-chatroom/global"
 	"time"
 
 	"github.com/google/uuid"

@@ -1,4 +1,4 @@
-module chatroom
+module github.com/GPorter-t/gin-plugin-chatroom
 
 go 1.19
 

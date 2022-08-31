@@ -1,14 +1,15 @@
 package service
 
 import (
-	"chatroom/global"
-	"chatroom/model"
-	"chatroom/utils"
 	"context"
 	"encoding/json"
 	"errors"
 	"fmt"
 	"time"
+
+	"github.com/GPorter-t/gin-plugin-chatroom/global"
+	"github.com/GPorter-t/gin-plugin-chatroom/model"
+	"github.com/GPorter-t/gin-plugin-chatroom/utils"
 
 	"github.com/google/uuid"
 )

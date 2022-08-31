@@ -1,9 +1,10 @@
 package initialize
 
 import (
-	"chatroom/global"
 	"context"
 	"fmt"
+
+	"github.com/GPorter-t/gin-plugin-chatroom/global"
 
 	"github.com/go-redis/redis/v8"
 )

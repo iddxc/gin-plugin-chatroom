@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/GPorter-t/gin-plugin-chatroom/api"
+	"github.com/iddxc/gin-plugin-chatroom/api"
 
 	"github.com/gin-gonic/gin"
 )

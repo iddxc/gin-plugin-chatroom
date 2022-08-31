@@ -1,9 +1,9 @@
 package api
 
 import (
-	"github.com/GPorter-t/gin-plugin-chatroom/model"
-	"github.com/GPorter-t/gin-plugin-chatroom/model/response"
-	"github.com/GPorter-t/gin-plugin-chatroom/service"
+	"github.com/iddxc/gin-plugin-chatroom/model"
+	"github.com/iddxc/gin-plugin-chatroom/model/response"
+	"github.com/iddxc/gin-plugin-chatroom/service"
 
 	"strconv"
 

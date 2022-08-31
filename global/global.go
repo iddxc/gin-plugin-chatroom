@@ -1,7 +1,7 @@
 package global
 
 import (
-	"github.com/GPorter-t/gin-plugin-chatroom/config"
+	"github.com/iddxc/gin-plugin-chatroom/config"
 
 	"github.com/go-redis/redis/v8"
 )

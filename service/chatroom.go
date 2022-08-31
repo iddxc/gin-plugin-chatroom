@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/GPorter-t/gin-plugin-chatroom/global"
-	"github.com/GPorter-t/gin-plugin-chatroom/model"
-	"github.com/GPorter-t/gin-plugin-chatroom/utils"
+	"github.com/iddxc/gin-plugin-chatroom/global"
+	"github.com/iddxc/gin-plugin-chatroom/model"
+	"github.com/iddxc/gin-plugin-chatroom/utils"
 
 	"github.com/google/uuid"
 )
